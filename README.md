@@ -1,0 +1,2 @@
+# eshop
+django eshop
